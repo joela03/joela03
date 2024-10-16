@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @joela03. I'm a recent Mathematics graduate who is expanding his coding portfolio in order to pivot into tech.
+- 👀 I’m interested in all things Data (Analysis, Engineering and Science). I'm looking to apply what I learnt to aid education and psychology.
+- 🌱 I’m currently learning Python, Relational Database's and Machine Learning.
+- 📫 How to reach me: joelallencaliste@gmail.com
+- 😄 Pronouns: He/ Him
+- ⚡ Fun fact: I represenetd my University nationally in the sport of Powerlifting.
