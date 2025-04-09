@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Python, Relational Database's and Machine Learning.
 - 📫 How to reach me: joelallencaliste@gmail.com
 - 😄 Pronouns: He/ Him
-- ⚡ Fun fact: I represenetd my University nationally in the sport of Powerlifting.
+- ⚡ Fun fact: I represenetd my University nationally in Powerlifting.
